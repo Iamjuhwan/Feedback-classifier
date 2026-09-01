@@ -1,8 +1,7 @@
 # Community Health Feedback Classifier
 
 Text classification + information extraction over multilingual Nigerian
-community/health feedback — built to demonstrate the skillset in the
-[SRHIN NLP Engineer](https://srhin.org/career/nlp-engineer/) job description:
+community/health feedback — built to demonstrate the skills:
 text classification, information extraction, and multilingual NLP applied to
 health and social-data contexts.
 
