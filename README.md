@@ -1,5 +1,7 @@
 # Community Health Feedback Classifier
 
+**Fine-tuned model:** [Jesujuwon/community-health-feedback-afroxlmr](https://huggingface.co/Jesujuwon/community-health-feedback-afroxlmr) 
+
 Text classification + information extraction over multilingual Nigerian
 community/health feedback — built to demonstrate the skills:
 text classification, information extraction, and multilingual NLP applied to
